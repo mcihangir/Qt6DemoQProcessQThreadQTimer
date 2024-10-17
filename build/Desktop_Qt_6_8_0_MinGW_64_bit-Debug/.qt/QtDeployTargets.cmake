@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_QProcess_QThread_QTimer_Demo_FILE E:/Projects/Qt/QProcess_QThread_QTimer_Demo/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/QProcess_QThread_QTimer_Demo.exe)
+set(__QT_DEPLOY_TARGET_QProcess_QThread_QTimer_Demo_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_QProcess_QThread_QTimer_Demo_RUNTIME_DLLS C:/Qt/6.8.0/mingw_64/bin/Qt6Core.dll)

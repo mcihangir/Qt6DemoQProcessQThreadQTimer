@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-efead321a3779e7136ef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QProcess_QThread_QTimer_Demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QProcess_QThread_QTimer_Demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QProcess_QThread_QTimer_Demo-Debug-8aa841cf0b481b8e64c1.json",
+					"name" : "QProcess_QThread_QTimer_Demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QProcess_QThread_QTimer_Demo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QProcess_QThread_QTimer_Demo_autogen-Debug-838ed08c250d07457c35.json",
+					"name" : "QProcess_QThread_QTimer_Demo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QProcess_QThread_QTimer_Demo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QProcess_QThread_QTimer_Demo_autogen_timestamp_deps-Debug-472be9900a047c90a18f.json",
+					"name" : "QProcess_QThread_QTimer_Demo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Projects/Qt/QProcess_QThread_QTimer_Demo/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/Projects/Qt/QProcess_QThread_QTimer_Demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
